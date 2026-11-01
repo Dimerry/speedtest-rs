@@ -2,6 +2,8 @@
 name = "speedtest-rs"
 version = "1.0.0"
 edition = "2021"
+description = "Self-hosted LAN speedtest page: Rust + Axum, single static musl binary"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
 axum = "0.7"

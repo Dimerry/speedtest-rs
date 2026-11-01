@@ -36,3 +36,7 @@ docker run -d --name speedtest --restart unless-stopped -p 5111:5111 speedtest-r
 ```
 
 环境变量：`PORT`（默认 5111）。
+
+## 许可证
+
+MIT OR Apache-2.0（双许可，任选其一）
